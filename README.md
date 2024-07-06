@@ -11,7 +11,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://bit.ly/3jvLMET" />
+<img width="55%" align="right" alt="Github" src="https://content.red-badger.com/hubfs/Imported_Blog_Media/Github_Blog-3.gif" />
 
 - 💼 I work at Web Developer at invexTech Comapany;
 - 👨🏽‍💻 I’m currently looking for part-time/Consultant (Software Architect) opportunities;
