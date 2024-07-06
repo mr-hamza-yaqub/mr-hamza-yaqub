@@ -11,7 +11,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="45%" height="40%" align="right" alt="Github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 
 - 💼 I work as Web Developer at invexTech Comapany;
 - 👨🏽‍💻 I’m currently looking for part-time/Consultant (Software Architect) opportunities;
