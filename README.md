@@ -1,19 +1,142 @@
-<h1 align="center">Hi 👋, I'm Hamza Yaqub</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-<img align="right" alt="coding" width="400"src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-hamza-yaqub" alt="mr-hamza-yaqub" /></a> </p>
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
-- 📫 How to reach me **hamzayaqub06@gmail.com**
+```js
+"use creativity";
+import { Person } from "indonesia";
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mr-hamza-yaqub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr-hamza-yaqub" height="30" width="40" /></a>
-<a href="https://instagram.com/mr-hamza-yaqub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr-hamza-yaqub" height="30" width="40" /></a>
+new Person({
+  name: "Deri Kurniawan",
+  title: "Full Stack Developer",
+  email: "deri.netuchi@gmail.com",
+  website: "https://deri.my.id",
+  junior: !!!false,
+}).introduce();
+```
+
+```cmd
+D:\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">✨My Portfolio Website✨</h3>
+
+<a href="https://www.deri.my.id" alt="Deri Kurniawan Super Portfolio">
+<img src="https://files.edgestore.dev/pm4x4vgchfn4kpfz/publicFiles/_public/showcase-super-portfolio-1714565100312.webp" align="right">
+</a>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+🌆 Daytime                2410 commits        ███████████░░░░░░░░░░░░░░   43.12 % 
+🌃 Evening                1896 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
+🌙 Night                  680 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               15 hrs 7 mins       ████████████████████████░   94.59 % 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 59 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  15 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 06-07-2024 17:17:25 UTC
+<!--END_SECTION:waka-->
+
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-hamza-yaqub&show_icons=true&locale=en&layout=compact" alt="mr-hamza-yaqub" /></p>
+<h3 align="center">🔥Streak Stats🔥</h3>
 
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Support me -->
+<h3 align="center">☕Support Me☕</h3>
+
+<div align="center">
+  
+[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
