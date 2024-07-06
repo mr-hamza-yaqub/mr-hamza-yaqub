@@ -38,11 +38,11 @@
 🕑︎ Time Zone: Asia/Islamabad
 
 💬 Programming Languages: 
-TypeScript               15 hrs 7 mins       ████████████████████████░   94.59 % 
-Nest.js                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Next.js                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript               5 hrs 7 mins        ████████████████████████░   94.59 % 
+Next.js                  2 hrs               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JavaScript               2 hrs               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Nest.js                  1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+CSS                      60 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
 VS Code                  15 hrs 59 mins      █████████████████████████   100.00 % 
@@ -90,4 +90,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
 </p>
 
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<div align="center">
+    Made with ❤️ by <a href="https://github.com/mr-hamza-yaqub" target="_blank">Hamza Yaqub</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
