@@ -11,9 +11,9 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://i.gifer.com/3AyY.gif" />
+<img width="55%" align="right" alt="Github" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
-- 💼 I work at Web Developer at invexTech Comapany;
+- 💼 I work as Web Developer at invexTech Comapany;
 - 👨🏽‍💻 I’m currently looking for part-time/Consultant (Software Architect) opportunities;
 - 🌱 I’m currently learning Artificial Intelligence and working heavily on backend systems; 
 - 🤔 I’m looking for help with guidance in AI learning strategies;
