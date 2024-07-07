@@ -4,9 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mr-hamza-yaqub)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-hamza-yaqub/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mr_hamza_07860?igsh=d2F0Z2NqNzFrODV5)
-
 &nbsp;
-
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -69,9 +67,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!--x axis divider-->
-<div align="center">
-    Made with ❤️ by <a href="https://github.com/mr-hamza-yaqub" target="_blank">Hamza Yaqub</a>
-</div>
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -93,3 +89,6 @@ Windows                  15 hrs 59 mins      ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
+<div align="center">
+    Made with ❤️ by <a href="https://github.com/mr-hamza-yaqub" target="_blank">Hamza Yaqub</a>
+</div>
