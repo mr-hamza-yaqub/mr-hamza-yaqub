@@ -57,7 +57,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/mr-hamza-yaqub">
-    <img width="50%" align="right" alt="coderpen's github stats" src="https://github-readme-stats.vercel.app/api?username=mr-hamza-yaqub&show_icons=true&theme=radical" />
+    <img width="50%" align="right" alt="coderpen's github stats" src="https://github-readme-stats.vercel.app/api?username=mr-hamza-yaqub&show_icons=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
