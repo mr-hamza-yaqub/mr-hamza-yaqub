@@ -12,7 +12,7 @@
 
 
 
-- 💼 I work as Web Developer at invexTech Comapany;
+- 💼 I work as Web Developer at Pakistan Based Comapany(invexTech);
 - 👨🏽‍💻 I’m currently looking for part-time/Consultant (Software Architect) opportunities;
 - 🌱 I’m currently learning Artificial Intelligence and working heavily on backend systems; 
 - 🤔 I’m looking for help with guidance in AI learning strategies;
@@ -29,27 +29,6 @@
 🌃 Evening                1896 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
 🌙 Night                  680 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Islamabad
-
-💬 Programming Languages: 
-TypeScript               5 hrs 7 mins        ████████████████████████░   94.59 % 
-Next.js                  2 hrs               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JavaScript               2 hrs               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Nest.js                  1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-CSS                      60 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 59 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  15 hrs 59 mins      █████████████████████████   100.00 % 
-```
-
 **Languages and Tools:** 
 
 <!-- Your github readme stats
@@ -72,7 +51,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
  
- 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
@@ -80,10 +58,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
- 
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
@@ -92,13 +68,28 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
-
 <!--x axis divider-->
 <div align="center">
     Made with ❤️ by <a href="https://github.com/mr-hamza-yaqub" target="_blank">Hamza Yaqub</a>
 </div>
+📊 **This Week I Spent My Time On** 
 
+```text
+🕑︎ Time Zone: Asia/Islamabad
+
+💬 Programming Languages: 
+TypeScript               5 hrs 7 mins        ████████████████████████░   94.59 % 
+Next.js                  2 hrs               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JavaScript               2 hrs               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Nest.js                  1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+CSS                      60 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 59 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  15 hrs 59 mins      █████████████████████████   100.00 % 
+```
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
